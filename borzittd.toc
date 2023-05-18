@@ -1,10 +1,14 @@
 ## Interface: 90207
-## Title: Borzi TTD
+## Title: |cffc41f3bBorzi TTD|r
 ## Author: ElementoBorzi
-## Version: 1
+## Version: 3.3
 ## Notes: Show TTD for current Target
 ## SavedVariables: BorziTTDDB
 ## OptionalDeps: Ace3
 
 #@no-lib-strip@
+embeds.xml
 #@end-no-lib-strip@
+
+borzittd.lua
+borzittdc.lua
